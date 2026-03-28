@@ -5,15 +5,13 @@
 
 <div align="center">
 
-# Hi there, I'm Deng Wenzhi (Peach)! 👋
+# Hi there, I'm Peach! 👋
 
 [![Profile Views](https://komarev.com/ghpvc/?username=dwz-peach&style=flat-square)](https://github.com/dwz-peach)
 [![GitHub Stars](https://img.shields.io/github/stars/dwz-peach?style=flat-square&logo=github)](https://github.com/dwz-peach)
 [![Followers](https://img.shields.io/github/followers/dwz-peach?style=flat-square&logo=github)](https://github.com/dwz-peach?tab=followers)
 
-### 🎯 Software Test Engineer | 3+ Years Experience | UGC Content Community + E-commerce
-
-📍 Shanghai, China | 🎓 Hubei Communications Vocational & Technical College, 2019
+### 🎯 Software Test Engineer | QA Enthusiast | Bug Hunter
 
 </div>
 
@@ -23,15 +21,7 @@
 
 > *"Quality is not an act, it is a habit."* — Aristotle
 
-I'm a passionate **Software Test Engineer** with over 3 years of experience in testing UGC content communities and e-commerce platforms. Currently focused on delivering high-quality user experiences through comprehensive functional testing, automation, and performance optimization.
-
-<div align="center">
-
-| 💼 Current Role | 📱 Domain | 🎯 Focus |
-|:---:|:---:|:---:|
-| Test Engineer | APP + Web | Functional, Compatibility, Performance, API Testing |
-
-</div>
+Passionate about delivering high-quality software through comprehensive testing strategies. Focused on functional testing, automation, and performance optimization.
 
 ---
 
@@ -65,113 +55,28 @@ I'm a passionate **Software Test Engineer** with over 3 years of experience in t
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![鸿蒙](https://img.shields.io/badge/HarmonyOS-FFFFFF?style=for-the-badge&logoColor=black)
+![HarmonyOS](https://img.shields.io/badge/HarmonyOS-000000?style=for-the-badge&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white)
-![Monkey](https://img.shields.io/badge/Monkey-FF0000?style=for-the-badge&logoColor=white)
-![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Instruments](https://img.shields.io/badge/Instruments-333333?style=for-the-badge&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 </div>
 
 ---
 
-## 💼 Work Experience
-
-### 行吟信息科技（上海）有限公司 | Software Test Engineer
-
-**Project: 小红书 (Xiaohongshu) - UGC Content Community + E-commerce Platform**
-
-A cloud-native microservices architecture platform combining content sharing and e-commerce.
+## 💡 Skills
 
 <div align="center">
 
-| Module | My Responsibility |
+| Domain | Skills |
 |:---:|:---:|
-| **APP - Publish** | Note publishing, draft management, audit control |
-| **APP - Marketplace** | Full shopping flow, after-sales, pre-sale rules |
-| **APP - Short Video** | Video playback, interaction, commercial linking |
-| **Web - Publish** | Web note publishing, browsing, interaction |
-
-</div>
-
----
-
-## 🎯 Key Projects
-
-### 1️⃣ Note Publish Module
-
-**Business Rules:**
-- Title: 0-20 characters | Images: 1-18 (jpg/png/heic) | Text: up to 1000 chars
-- Video: Single (1s-15min) or up to 50 video/image combinations
-- Additional features: Topics, @users, location tags, scheduled publishing
-
-**Test Coverage:**
-- ✅ Basic content editing (title, images, text, video)
-- ✅ Publishing features (topics, @mentions, location, scheduled posts)
-- ✅ Draft management (auto-save, recovery, version control)
-- ✅ Audit & compliance (violation detection, gradient penalties)
-- ✅ Exception handling (network interruption, duplicate submission)
-
-**Key Achievements:**
-> 🏆 Discovered **20+ bugs**, violation interception rate **100%**, high-concurrency publishing success rate improved from **95% → 99.8%**
-
----
-
-### 2️⃣ Marketplace Module
-
-**Test Coverage:**
-- ✅ Full shopping flow (browse → purchase → payment → delivery → after-sales)
-- ✅ Special product rules (pre-sale 180-day delivery, non-refundable items)
-- ✅ Live streaming & flash sales (purchase limits, prominent disclosures)
-- ✅ Exception scenarios (payment failure, order cancellation, merchant violations)
-
-**Key Achievements:**
-> 🏆 Discovered **25+ bugs** (3 critical), user appeal response time reduced from **24h → 8h**
-
----
-
-### 3️⃣ Short Video Module
-
-**Test Coverage:**
-- ✅ Video playback & interaction (play, pause, speed, likes, comments)
-- ✅ Data synchronization (likes, comments, collections in real-time)
-- ✅ Commercial integration (product link consistency)
-- ✅ High-concurrency scenarios (5000+ concurrent users)
-- ✅ Compliance control (anti-spam, anti-fraud)
-
-**Key Achievements:**
-> 🏆 Discovered **18+ bugs**, violation commercial link interception rate **100%**, video publishing success rate improved from **96% → 99.5%**
-
----
-
-## 🔬 Specialized Testing
-
-<div align="center">
-
-| Domain | Coverage |
-|:---:|:---:|
-| **📱 Compatibility** | iOS, Android, HarmonyOS | 1080P-4K | 4.7"-7.0" screens | Foldable devices |
-| **⚡ Performance** | 5000+ concurrent users | ≤2s response | ≥800 TPS | CPU ≤70% | FPS >55 |
-| **🔗 Network** | High latency | Weak signal | Network switch | Offline caching |
-| **🔄 Interrupt** | Calls | SMS | Alarms | Charging | Headphones | Low battery |
-| **📦 Installation** | Install | Upgrade | Uninstall | Cross-platform | Data migration |
-
-</div>
-
----
-
-## 📊 Performance Highlights
-
-<div align="center">
-
-### High Concurrency Testing Results
-
-| Metric | Before | After | Improvement |
-|:---:|:---:|:---:|:---:|
-| API Success Rate | 92%-95% | **99%+** | +7% |
-| Response Time | Baseline | **-30%** | Optimized |
-| Video Publishing | 96% | **99.5%** | +3.5% |
-| Note Publishing | 95% | **99.8%** | +4.8% |
+| **📋 Test Design** | Functional, Integration, System, Regression, Smoke Testing |
+| **📱 App Testing** | Compatibility, Performance, Interrupt, Installation/Upgrade/Uninstall |
+| **⚡ Performance** | JMeter, Load Testing, Stress Testing, Concurrency (5000+ users) |
+| **🔗 API Testing** | REST, POST/GET/PUT/DELETE, Authentication, Response Validation |
+| **🐍 Automation** | Python, Selenium, Pytest, Test Framework Design |
+| **📊 Database** | MySQL, CRUD Operations, Data Analysis, Query Optimization |
+| **🖥️ Linux** | Shell Commands, Log Analysis, Process Management, Deployment |
+| **🔧 Tools** | Fiddler (Packet Capture), Git/SVN, ZenTao (Bug Tracking) |
 
 </div>
 
@@ -199,13 +104,6 @@ A cloud-native microservices architecture platform combining content sharing and
 
 ---
 
-## 📜 Certifications
-
-- **ISTQB** - International Software Testing Qualifications Board (In Progress)
-- Software Testing Professional Certification
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -230,6 +128,6 @@ A cloud-native microservices architecture platform combining content sharing and
 </div>
 
 <!--
-  Made with ❤️ by Deng Wenzhi (Peach)
+  Made with ❤️ by Peach
   Last updated: 2026
 -->
