@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I’m Peach! 👋
 
-<!--
-**dwz-peach/dwz-peach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 **Software Tester** | 3+ Years Experience
 
-Here are some ideas to get you started:
+📚 **Currently Learning**
+- Test Automation & CI/CD Integration
+- API Testing & Performance Testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **About Me**
+- Passionate about quality assurance and bug hunting
+- Eager to learn and grow in the testing field
+- Open to collaboration on testing projects
+
+📫 **Let’s Connect**
+- Feel free to reach out for testing collaborations!
+
+---
+*Always testing, always learning.* 🚀
